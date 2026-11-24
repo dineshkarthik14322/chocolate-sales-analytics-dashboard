@@ -15,7 +15,7 @@ A Power BI dashboard that turns 25,076 chocolate shipment records into clear, de
 
 - **$141.49 million** in total sales across **25,076 shipments**
 - **8.83 million boxes** shipped
-- **India is the largest market: $40 million, 28.58% of sales**, followed by New Zealand and Australia at $30 million each
+- **India is the largest market: $40 million, 28.3% of sales**, followed by New Zealand and Australia at $30 million each
 - Top 6 products and top 6 salespeople are ranked on the dashboard, with profitability ranging from 85% Dark Bars at −35.0% to Smooth Silky Salty at 69.1%
 - Year-on-year comparison (CY vs PY) is shown for both sales amount and boxes shipped
 
